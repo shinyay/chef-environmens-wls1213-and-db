@@ -3,8 +3,8 @@
   "default_attributes": {
     "env": {
       "bash": {
-        "product": "FMW",
-        "product_version": "fmw12.1.3.0.0"
+        "product": "FMW-DB",
+        "product_version_fmw": "fmw12.1.3.0.0"
       }
     },
     "weblogic": {
