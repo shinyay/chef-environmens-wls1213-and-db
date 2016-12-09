@@ -1,0 +1,13 @@
+{
+  "name": "db",
+  "default_attributes": {
+    "env": {
+      "bash": {
+        "product": "DB"
+      }
+    },
+    "database": {
+      "host_name": "wls12c"
+    }
+  }
+}
